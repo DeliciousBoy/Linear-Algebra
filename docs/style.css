@@ -52,12 +52,12 @@ body {
 
 /* Hero Section */
 .hero {
-    height: 100vh;
+    height: 30vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url('background_image.jpg') center/cover no-repeat;
+    background: url('https://media1.tenor.com/m/LX0Z84-G-AUAAAAd/cat-cat-math.gif') center/cover no-repeat;
     text-align: center;
 }
 
